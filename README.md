@@ -71,15 +71,6 @@ The implementation uses low temperature (0.1) to reduce variability and sets a m
 
 ## Assumptions & Trade-offs
 
-- **PDF Processing:** Assumes documents have extractable text; non-PDF or scanned images may not work properly
-- **API Dependency:** Uses Gemini API for improved extraction quality but gracefully degrades to regex patterns when unavailable
-- **Name Extraction:** Optimized for company names; may be less effective for individual names or unusual formats
-- **Matching Algorithm:** Levenshtein distance provides good approximation but may produce false positives with similar names
-- **Client-side Processing:** All processing stays in the browser with no server persistence, trading scalability for simplicity
-- **Environment Variables:** API keys use NEXT_PUBLIC_* variables for demo purposes; a production app would need server-side API calls
-
-## Assumptions & Trade-offs
-
 - **PDF Processing**: We assume most documents will be PDFs with extractable text. Non-PDF documents or scanned images will require additional OCR processing (not implemented).
 - **API Dependency**: When using LLM features, the app requires external API connectivity; however, it gracefully degrades to regex matching when APIs are unavailable.
 - **Name Extraction**: We prioritized company name extraction patterns in regex fallbacks, which may be less effective for individual names or uncommon entity formats.
