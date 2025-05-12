@@ -1,0 +1,25 @@
+INSURANCE CLAIM NOTIFICATION
+
+Claim Reference: SUNV-2024-089
+Submission Date: April 22, 2024
+
+POLICYHOLDER INFORMATION:
+Insured: SunValley Technologies Inc.
+Address: 425 Innovation Drive, Boulder, CO 80305
+Contact: Sarah Johnson, CFO (sarah.j@sunvalleytech.com)
+Policy Number: SVTI-COM-78923
+
+INCIDENT DETAILS:
+Date of Loss: April 17, 2024
+Type: Cyber Security Incident
+Description: Unauthorized access to employee database detected by IT security team.
+Potential data compromise affecting approximately 850 employee records including
+names, addresses, and social security numbers. No customer data appears to be affected.
+Forensic investigation is ongoing.
+
+Initial Response: System isolation completed, breach contained within 24 hours.
+Notification letters being prepared for affected individuals.
+
+Estimated Impact: $180,000 (breach response, notification, credit monitoring)
+
+Please advise on next steps regarding claim processing and required documentation. 

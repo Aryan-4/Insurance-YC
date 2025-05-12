@@ -1,0 +1,26 @@
+PROPERTY DAMAGE REPORT
+Reference: BFS-03122024-01
+
+POLICYHOLDER INFORMATION
+Policy Holder: Beacon Financial Services Corp
+Policy #: BFS-PROP-9872
+Effective Period: 01/01/2024 - 12/31/2024
+Contact: Michael Donovan, VP Operations (m.donovan@beaconfs.com)
+
+INCIDENT DETAILS
+Incident Date: February 28, 2024
+Location: Corporate Headquarters - 300 Lighthouse Ave, Boston, MA
+Nature of Incident: Water damage from broken sprinkler system
+Areas Affected: Executive offices (8th floor), Data center (7th floor)
+
+PRELIMINARY ASSESSMENT
+Estimated Damages: $187,500
+IT Equipment: $95,000
+Furniture/Fixtures: $42,000
+Document Restoration: $15,500
+Building Repairs: $35,000
+
+Submitted by: Jennifer Wells, Risk Management Director
+Date: March 1, 2024
+
+NOTE: Temporary relocation of executive team to 5th floor conference center completed. Data backup restoration in progress. 

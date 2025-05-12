@@ -1,0 +1,221 @@
+/*!****************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[3]!./styles/globals.css ***!
+  \****************************************************************************************************************************************************************************************************************************************************************/
+:root {
+  --primary-color: #0070f3;
+  --secondary-color: #ff4081;
+  --background-color: #ffffff;
+  --text-color: #333333;
+  --error-color: #d32f2f;
+  --success-color: #388e3c;
+  --border-color: #e0e0e0;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+  font-family: system-ui, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: var(--text-color);
+  background-color: var(--background-color);
+  line-height: 1.6;
+}
+
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+}
+
+button {
+  cursor: pointer;
+  background-color: var(--primary-color);
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
+h1 {
+  font-size: 1.8rem;
+  margin: 1rem 0;
+}
+
+.dropzone {
+  border: 2px dashed #888;
+  border-radius: 8px;
+  padding: 2rem;
+  text-align: center;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.dropzone:hover, .dropzone.active {
+  background: #f8f8f8;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 0.5rem;
+  text-align: left;
+}
+
+.status-uploaded {
+  color: #555;
+}
+
+.status-processing {
+  color: #c90;
+}
+
+.status-done {
+  color: #090;
+}
+
+.status-error {
+  color: #d00;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.selected-files {
+  margin-top: 1rem;
+  color: #555;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+.sample-links {
+  display: flex;
+  gap: 1rem;
+  margin-top: 0.5rem;
+}
+
+.sample-links a {
+  color: #0070f3;
+  text-decoration: none;
+}
+
+.sample-links a:hover {
+  text-decoration: underline;
+}
+
+.error-toast {
+  background-color: #ffebee;
+  color: #c62828;
+  border: 1px solid #ef9a9a;
+  border-radius: 4px;
+  padding: 0.75rem 1rem;
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.error-toast button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1rem;
+  padding: 0.25rem 0.5rem;
+  color: #c62828;
+}
+
+select {
+  padding: 0.25rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  width: 100%;
+}
+
+.processing-indicator {
+  background-color: #fff8e1;
+  padding: 0.75rem 1rem;
+  margin-top: 1rem;
+  border: 1px solid #ffecb3;
+  border-radius: 4px;
+  color: #ff8f00;
+  font-weight: 500;
+}
+
+/* Debug panel for development */
+.debug-panel {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  max-width: 400px;
+  max-height: 300px;
+  overflow: auto;
+  background: rgba(0, 0, 0, 0.8);
+  color: #00ff00;
+  font-family: monospace;
+  padding: 10px;
+  font-size: 12px;
+  z-index: 9999;
+}
+
+.match-tester {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  background-color: #f9f9f9;
+}
+
+.tester-controls {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.tester-controls input {
+  flex: 1 1;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.match-result {
+  padding: 10px;
+  background-color: #e3f2fd;
+  border-radius: 4px;
+}
+
+hr {
+  margin: 20px 0;
+  border: 0;
+  border-top: 1px solid #ddd;
+}
+
+.highlight-id {
+  font-weight: bold;
+  color: #2e7d32;
+} 

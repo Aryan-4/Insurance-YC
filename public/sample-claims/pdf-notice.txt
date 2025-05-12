@@ -1,0 +1,20 @@
+HOW TO USE SAMPLE FILES:
+
+We've provided sample text files that you can use for testing the application:
+
+1. EASIEST METHOD (Recommended):
+   - Simply upload the .txt files directly (claim1.txt, claim2.txt, claim3.txt, sample1.txt, etc.)
+   - The application will process these text files properly
+
+2. ALTERNATIVE METHOD (If you want to test PDF functionality):
+   - Download any of the .txt files provided here
+   - Rename them to .pdf (e.g., rename sample1.txt to sample1.pdf)
+   - Upload the renamed file to the application
+   - The application will detect it's actually a text file and process it correctly
+
+3. REAL PDF TESTING:
+   If you want to test with real PDFs, you can find sample insurance claim forms at:
+   - https://www.pdffiller.com/en/catalog/insurance-claim-form-14
+   - https://www.sampleforms.com/insurance-claim-form-sample.html
+
+NOTE: The app is designed to extract the "insured party" from these files and match it against the internal database. 

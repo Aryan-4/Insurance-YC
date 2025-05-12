@@ -1,0 +1,32 @@
+INDUSTRIAL ACCIDENT REPORT
+Claim #: SM-2024-03-15-002
+
+COMPANY INFORMATION
+Insured: Sierra Manufacturing Co.
+Address: 7820 Industrial Parkway, Reno, NV 89502
+Contact: David Rivera, Safety Director (775-555-3490)
+
+INCIDENT DETAILS
+Date & Time: March 15, 2024, approximately 2:30 PM
+Location: Assembly Line B, Main Production Facility
+Type: Equipment Malfunction / Employee Injury
+
+DESCRIPTION OF INCIDENT
+A hydraulic press experienced mechanical failure during normal operation, resulting in damage to the equipment and minor injuries to operator James Wilson. The machine has been taken offline for inspection. Initial assessment indicates a failure in the hydraulic cylinder pressure relief system.
+
+INJURIES
+Employee: James Wilson (Machine Operator)
+Nature of Injuries: First and second-degree burns to right forearm, minor lacerations
+Treatment: First aid on site, then transported to Valley Medical Center for evaluation
+Current Status: Released same day, expected to return to modified duty within 3-5 days
+
+PROPERTY DAMAGE
+Equipment: Hydraulic Press Unit #7
+Estimated Repair Cost: $62,800
+Production Impact: 15-20% reduction in output for approximately 1 week
+
+Insurance Policy: SM-PROP-2024-118
+Deductible: $10,000
+
+Report Filed By: Anthony Maxwell, Production Manager
+Date: March 15, 2024 

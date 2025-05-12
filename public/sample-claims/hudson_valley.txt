@@ -1,0 +1,20 @@
+INSURANCE CLAIM NOTIFICATION
+Date Filed: March 12, 2024
+
+CLAIM DETAILS
+Claim Number: HVMP-2024-78321
+Policy Number: MED-567-2024-HV
+Insured: Hudson Valley Medical Partners
+Location: 1250 Medical Plaza, Kingston, NY 12401
+
+INCIDENT INFORMATION
+Date of Loss: March 5, 2024
+Type of Loss: Equipment Damage
+Description: Lightning strike caused power surge affecting MRI equipment and computer systems in the radiology department. Temporary service interruption affecting scheduled patient appointments.
+
+DAMAGE ASSESSMENT
+Estimated Repair Cost: $245,800
+Business Interruption: Approximately 3 days
+Adjuster Assigned: Robert Chen (Hudson Valley Regional Office)
+
+Additional Notes: Emergency repair team was able to restore partial functionality within 24 hours. Replacement parts for MRI system have been ordered with expedited delivery. 
